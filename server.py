@@ -60,7 +60,7 @@ class BlackjackServer:
 
     def __init__(self):
         self.tcp_port = 0
-        self.server_name = "Dee L. Er"
+        self.server_name = "bl\033[1mACK\033[0mjack"
         self.running = True
 
     def start_udp_broadcast(self):

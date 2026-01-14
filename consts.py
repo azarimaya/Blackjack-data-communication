@@ -35,5 +35,5 @@ RESULT_TIE = 0x01
 RESULT_NOT_OVER = 0x00
 
 # Player Actions
-ACTION_HIT = "Hit"
+ACTION_HIT = "Hittt"
 ACTION_STAND = "Stand"

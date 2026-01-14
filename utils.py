@@ -29,7 +29,7 @@ def get_local_ip():
 def get_card_name(rank, suit):
 
     # Mapping suit integers (0-3) to symbols
-    suits_symbols = ['♡', '♢', '♤', '♧']
+    suits_symbols = ['♡', '♢', '♧', '♤']
     rank_str = str(rank)
 
     # Convert special ranks (1, 11-13) to letters
